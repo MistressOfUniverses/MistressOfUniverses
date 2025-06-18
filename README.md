@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MistressOfUniverses
 - 👀 I’m interested in getting my damn code to work
-- 🌱 I’m currently learning aerospace engineering in college
+- 🌱 I’m a recent graduate with a bachelors degree in engineering.
